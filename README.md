@@ -7,13 +7,13 @@
 - 😄 Pronouns:  ela/dela
 - curiosidades: sei falar espanhol e portugues, assim que meu repertorio de informação e mais amplo
 
-<div aling = "centro">
-<a href = "https://github.com/lorenax16 " >
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=lorenax16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenax16&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+<a href="https://github.com/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenax16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenax16&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
   
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> bsp;&nbsp
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" align="center" height=30/>&nbsp;<span>Node.js</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" align="center" height=30/>&nbsp;<span>Redux</span> &nbsp; &nbsp;
