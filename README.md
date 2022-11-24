@@ -1,10 +1,10 @@
 
 ### Hi there 👋 Sou Lorena Olivares , Estudante de Desenvolvimento web.
 
-- 🔭 I’m currently  estou estudando e aperfei meus conhecimentos
+- 🔭 I’m currently  estou estudando e  desenvolvendo minhas habilidades
+-  🙃 sou muito curiosa
 - 👯 I’m looking to collaborate com muitos projetos
 - 😄 Pronouns  ela/dela
-- 🤓 curiosidades: sei falar espanhol e portugues, assim que meu repertorio de informação é mais amplo
 
 <div align="center">
   <a href="https://github.com/lorenax16">
