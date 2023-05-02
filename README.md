@@ -2,8 +2,8 @@
 ### Hi there 👋 Sou Lorena Olivares , Estudante de Desenvolvimento web.
 
 - 🔭 Atualmente trabalhando numa consultoria, criando, atualizando e mantendo os sitemas da empresa.
--  🙃 sou muito curiosa e gosto de aprofundar meus conhecimentos de backend.
-- 👯 I’m looking to collaborate  com times que geram soluç
+-  🙃 sou muito curiosa e gosto de aprofundar meus conhecimentos de backend
+- 👯 I’m looking to collaborate  com times que  geram qualidade, produtividade  e soluç  aos clientes.
 - 😄 Pronouns  ela/dela
 
 <div align="center">
