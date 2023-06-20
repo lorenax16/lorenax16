@@ -1,29 +1,46 @@
 
-### Hi there 👋 Sou Lorena Olivares , Estudante de Desenvolvimento web.
+### Hi there 👋 Sou Lorena Olivares , Desenvolvedora web.
+##
 
-- 🔭 Atualmente trabalhando numa consultoria, criando, atualizando e mantendo os sitemas da empresa.
+- 🔭 Atualmente trabalhando em One Portaria, como Desenvolvedora web Full-Stack
 -  🙃 sou muito curiosa e gosto de aprofundar meus conhecimentos de backend
-- 👯 I’m looking to collaborate  com times que  geram qualidade, produtividade  e soluç  aos clientes.
+- 👯 I’m looking to collaborate  em uma equipe que  gera qualidade, produtividade  e solução aos clientes.
 - 😄 Pronouns  ela/dela
+    
+<h2 align="left">🛠️ Ferramentas e tecnologias:</h2>
+    
+   ### Linguagens e tecnologias de desenvolvimento:
+  
+  <div align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" height="40" width="52" alt="trello logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="52" alt="redux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" alt="express logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="Sequelize logo"  />
+    <img src="https://user-images.githubusercontent.com/98190806/192385009-fa2bf5dc-d0ca-40fc-b47e-3909d5540ed6.png" width="52" alt="Typescript logo"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="54" alt="MongoDB logo"  />
+  </div>
+  
+<h2 align="left">💬 Pode me contatar em:</h2>
 
-<div align="center">
+<div align="left">
+      <a href="https://www.linkedin.com/in/lorenax16-olivares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto:lorena.olivares.perez16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/lorenaolivares9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+   
+<br/>
+  <div align="center">
   <a href="https://github.com/lorenax16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenax16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenax16&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
 
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> bsp;&nbsp
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" align="center" height=30/>&nbsp;<span>Node.js</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" align="center" height=30/>&nbsp;<span>Redux</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" align="center" height=30/><span>JavaScript</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" align="center" alt="MySQL"/>&nbsp;<span>MySQL</span> &nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" align="center" alt="Jest" height=30/>&nbsp;<span>Jest</span> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span>
 
-<div>
-  <a href="https://www.linkedin.com/in/lorenax16-olivares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-       
-  <a href = "mailto:lorena.olivares.perez16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lorenaolivares9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
